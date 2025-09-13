@@ -1,0 +1,1 @@
+{"compilerOptions": {"target": "es6","module": "esnext","jsx": "react-jsx","outDir": "./dist","rootDir": "./src","strict": true,"esModuleInterop": true}}
